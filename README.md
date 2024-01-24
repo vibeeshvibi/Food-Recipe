@@ -1,0 +1,2 @@
+https://vibeeshvibi.github.io/Food-Recipe/
+A food recipe webpage is an online platform dedicated to providing a collection of culinary instructions, tips, and inspiration for preparing various dishes. These webpages serve as a valuable resource for individuals seeking guidance in the kitchen, whether they are beginners looking for simple recipes or experienced cooks searching for new and innovative ideas. Here is a breakdown of key components typically found on a food recipe webpage
